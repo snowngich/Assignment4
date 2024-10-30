@@ -1,0 +1,53 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Answer:
+Timely delivery is essential because it ensures that the software meets market demands, fulfills client expectations, and maintains project costs within budget. Delays can lead to increased costs, lost market opportunities, and client dissatisfaction. Project managers can meet deadlines by setting realistic schedules, prioritizing tasks, using project management tools, allocating resources effectively, and closely monitoring project progress.
+
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Answer:
+Effective cost control ensures that the project stays within budget, maximizing return on investment and minimizing financial risk. Strategies for cost control include detailed budgeting, tracking expenses regularly, identifying and managing potential risks early, and making adjustments as needed. Agile budgeting and contingency funds can also help cover unexpected expenses without compromising the project.
+
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Answer:
+
+Agile: Advantages include flexibility, adaptability to changes, continuous user feedback, and iterative development. Disadvantages can be lack of structure and difficulty in planning large-scale projects due to its iterative nature.
+Waterfall: Advantages include a structured, linear process that is easy to manage, making it suitable for projects with clearly defined requirements. Disadvantages include inflexibility and difficulty adapting to changes once the project has progressed.
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Answer:
+
+Agile: Best for projects requiring frequent changes, such as web or mobile applications where user feedback and iterative improvements are essential.
+Waterfall: Suitable for projects with fixed requirements and no anticipated changes, such as government or infrastructure projects where each phase must be completed before moving to the next.
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Answer:
+Quality assurance methods include code reviews, automated testing, continuous integration, and user testing. Maintaining high standards is crucial to ensure functionality, security, and usability, ultimately increasing user satisfaction and reducing the need for costly bug fixes post-launch.
+
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Answer:
+Defining the project scope clarifies project boundaries, deliverables, and goals, which prevents scope creep and aligns team efforts with objectives. A Work Breakdown Structure (WBS) is a tool that breaks down the project into smaller, manageable tasks, allowing for clearer scheduling, budgeting, and resource allocation.
+
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Answer:
+A detailed project schedule improves time management, ensures deadlines are clear, and keeps team members aligned. Gantt charts visualize task timelines, dependencies, and progress, helping to monitor project status and make adjustments as necessary.
+
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Answer:
+Core issues may include usability, automation of tedious tasks, or enhancing data accessibility. These problems are significant to the target audience as they directly improve efficiency, satisfaction, or engagement with the software.
+
+9. How can clearly defining the problem help in developing a more effective software solution?
+Answer:
+Defining the problem clearly helps to focus development on specific needs, preventing feature overload and ensuring the software addresses the user's core pain points directly.
+
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Answer:
+The software solution could be described as a tool that empowers users to perform [specific task] more efficiently by streamlining [particular process] and offering an intuitive interface for easier management.
+
+11. What are the main features or functionalities that make your software stand out?
+Answer:
+Main features may include [unique user-friendly interface, high-speed performance, secure data handling, and customization options], making it more attractive compared to other software.
+
+12. What data is available regarding the market size and growth potential for your software?
+Answer:
+Data can include target market size, estimated user adoption rates, and growth trends that highlight the potential reach and profitability of the software.
+
+13. How can understanding market trends inform your software’s positioning and development?
+Answer:
+Recognizing market trends, such as user demand for mobile solutions or AI integration, enables developers to prioritize features that align with current user needs, improving adoption rates and market relevance.
